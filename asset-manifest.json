@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Test-assignment/static/css/main.068d5c30.css",
+    "main.js": "/Test-assignment/static/js/main.d636fca9.js",
+    "static/js/223.bc2205b0.chunk.js": "/Test-assignment/static/js/223.bc2205b0.chunk.js",
+    "static/js/909.c4e30e3f.chunk.js": "/Test-assignment/static/js/909.c4e30e3f.chunk.js",
+    "static/js/601.f3ecce48.chunk.js": "/Test-assignment/static/js/601.f3ecce48.chunk.js",
+    "static/js/406.415159cd.chunk.js": "/Test-assignment/static/js/406.415159cd.chunk.js",
+    "static/js/269.2aa71ecf.chunk.js": "/Test-assignment/static/js/269.2aa71ecf.chunk.js",
+    "static/media/symbol-defs.svg": "/Test-assignment/static/media/symbol-defs.b250787cc67da1305dd234cc9f4c3476.svg",
+    "index.html": "/Test-assignment/index.html",
+    "main.068d5c30.css.map": "/Test-assignment/static/css/main.068d5c30.css.map",
+    "main.d636fca9.js.map": "/Test-assignment/static/js/main.d636fca9.js.map",
+    "909.c4e30e3f.chunk.js.map": "/Test-assignment/static/js/909.c4e30e3f.chunk.js.map",
+    "601.f3ecce48.chunk.js.map": "/Test-assignment/static/js/601.f3ecce48.chunk.js.map",
+    "406.415159cd.chunk.js.map": "/Test-assignment/static/js/406.415159cd.chunk.js.map",
+    "269.2aa71ecf.chunk.js.map": "/Test-assignment/static/js/269.2aa71ecf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.068d5c30.css",
+    "static/js/main.d636fca9.js"
+  ]
+}

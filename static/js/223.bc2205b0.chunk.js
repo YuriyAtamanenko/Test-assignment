@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_assignment=self.webpackChunktest_assignment||[]).push([[223],{223:function(t){t.exports=JSON.parse('[{"id":"dummyTable","title":"Dummy Table","order":1,"path":"tabs/dummyTable.js"},{"id":"dummyChart","title":"Dummy Chart","order":2,"path":"tabs/dummyChart.js"},{"id":"dummyList","title":"Dummy List","order":0,"path":"tabs/dummyList.js"}]')}}]);
